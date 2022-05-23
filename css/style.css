@@ -82,7 +82,7 @@
     border-radius: 18px;
     border: none;
     background-color: #D9AFD9;
-    background-image: linear-gradient(0deg, #f115f1 0%, #7d8080 100%);
+    background-image: linear-gradient(0deg, #d2ccd2 0%, #7d8080 100%);
     cursor: pointer;
 }
 
@@ -93,7 +93,7 @@
     border-radius: 18px;
     border: none;
     background-color: #D9AFD9;
-    background-image: linear-gradient(0deg, #7178fa 0%, #f4c250 100%);
+    background-image: linear-gradient(0deg, #e74343 0%, #f0d86f 100%);
     cursor: pointer;
     color: #4be4e7;
 }
